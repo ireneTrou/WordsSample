@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestParser": {
+      "commandName": "Project",
+      "commandLineArgs": "\"so many:                words and again-many many words,\""
+    }
+  }
+}
